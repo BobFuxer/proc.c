@@ -249,7 +249,7 @@ wait(void)
 
 //write a linear configuration random number generator
 //int getrand(0, total number of lottery tickets)-> return a random number between 0 and total number
-int getrand(int z, int total){
+int getrand(0, int total){
 
             static long a = 144502;
 
